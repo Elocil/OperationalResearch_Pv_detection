@@ -1,6 +1,8 @@
 # OperationalResearch_Pv_detection
 # ☀️ Photovoltaic Panel Detection using YOLOv8
 
+![PV panel detection result](prediction_pv.png)
+
 ## Overview
 
 This project implements an automatic detection of photovoltaic (PV) panels in aerial or satellite images using a deep learning object detection model based on **YOLOv8**.
