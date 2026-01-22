@@ -9,6 +9,7 @@ This project implements an automatic detection of photovoltaic (PV) panels in ae
 
 The workflow relies on a custom annotated dataset hosted on Roboflow and uses the **Ultralytics YOLOv8** framework for training and inference. The notebook is designed to be simple, reproducible, and suitable for academic use in solar energy, remote sensing, and urban-scale analysis.
 
+![PV panel detection result](Overall workflow_elodie_jad.png)
 ---
 
 ## Objectives
