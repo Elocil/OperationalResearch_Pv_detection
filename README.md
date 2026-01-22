@@ -84,7 +84,7 @@ The workflow relies on a custom annotated dataset hosted on Roboflow and uses th
 ---
 
 ## Repository Structure
-
+```text
 dataset/
 ├── train/
 │   ├── images/
@@ -96,6 +96,7 @@ dataset/
 │   ├── images/
 │   └── labels/
 └── data.yaml
+```
 
 > The `data/` and `runs/` folders are created automatically when running the notebook.
 
