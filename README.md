@@ -1,6 +1,6 @@
 # OperationalResearch
 
-This repository contains **two distinct but complementary projects** related to solar energy analysis and computer vision, developed using Python.
+This repository contains **two distinct projects** related to solar energy analysis and computer vision, developed using Python.
 
 ---
 
@@ -59,6 +59,7 @@ West  = 4.7
 South = 45.4
 East  = 6.1
 
+--- 
 
 # Part 2 —☀️ Photovoltaic Panel Detection using YOLOv8
 
