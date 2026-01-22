@@ -59,8 +59,8 @@ West  = 4.7
 South = 45.4
 East  = 6.1
 
-# OperationalResearch_Pv_detection
-# ☀️ Photovoltaic Panel Detection using YOLOv8
+
+# Part 2 —☀️ Photovoltaic Panel Detection using YOLOv8
 
 ![PV panel detection result](prediction_pv.png)
 
